@@ -1,0 +1,39 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+div{
+    background: hsl(0, 0%, 100%);
+    color: #000000;
+    font: 15px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+    display: inline-block;
+    height: 675px;
+    line-height: 30px;
+    margin: 0 660px;
+    text-align: center;
+    width: 440px;
+    position: relative;
+    top: 150px; left: 0px;
+}
+.di{
+    border-radius: 20px;
+}
+.tex{
+    position: relative;
+    top: 440px; left: 0px;
+    text-align: center;
+}
+img{
+    position: relative;
+    top: -75px; left: 0px;
+    height: 392px;
+    width: 400px;
+}
+.imgstyle{
+    border-radius: 10px;
+}
+.textes{
+    color: hsl(220, 15%, 55%);
+    line-height: normal;
+    position: relative;
+    top: 35px; left: 0px;
+}
